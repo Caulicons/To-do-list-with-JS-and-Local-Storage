@@ -1,4 +1,4 @@
-import { ConcluaTarefa } from "../actions/concluirTarefa.js"
+import { ConcluaTarefa } from "../concluirTarefa.js"
 
 export const BotaoConclui = () => {
 

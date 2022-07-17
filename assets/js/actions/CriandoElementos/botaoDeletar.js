@@ -1,4 +1,4 @@
-import { DeletarTarefa } from "../actions/deletarTarefa.js"
+import { DeletarTarefa } from "../deletarTarefa.js"
 
 export const BotaoDeleta = () => {
 
